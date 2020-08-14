@@ -23,7 +23,7 @@ namespace DenemeProject.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Projenin bu kısmında değişiklik yapıldı ve githuba commit edildi (ikinci commit)";
 
             return View();
         }
